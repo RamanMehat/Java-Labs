@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="motion.c">
+		<category name="Window">
+			<property name="Left" type="integer">-9</property>
+			<property name="Top" type="integer">-38</property>
+			<property name="Right" type="integer">1693</property>
+			<property name="Bottom" type="integer">693</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+	<category name="motion.h">
+		<category name="Window">
+			<property name="Left" type="integer">30</property>
+			<property name="Top" type="integer">32</property>
+			<property name="Right" type="integer">736</property>
+			<property name="Bottom" type="integer">531</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="main.c">
+		<category name="Window">
+			<property name="Left" type="integer">60</property>
+			<property name="Top" type="integer">64</property>
+			<property name="Right" type="integer">766</property>
+			<property name="Bottom" type="integer">563</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+</settings>
