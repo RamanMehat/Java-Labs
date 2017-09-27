@@ -1,5 +1,5 @@
 # Pelles-C-Labs
 
 Foundations of Imperative Programming
-Environemnt Pelles C
+Environment Pelles C
 Labs 1 - 11
