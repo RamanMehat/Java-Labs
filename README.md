@@ -1,5 +1,5 @@
-# Java-Labs
+# Pelles-C-Labs
 
 Foundations of Imperative Programming
-Environemnt BlueJ
+Environemnt Pelles C
 Labs 1 - 11
